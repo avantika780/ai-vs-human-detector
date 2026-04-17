@@ -1,3 +1,4 @@
+
 # AI vs Human Text Detector
 
 A Machine Learning project that classifies whether a given text is AI-generated or human-written.
@@ -80,3 +81,6 @@ The dataset was cleaned to remove label leakage (phrases like "AI-generated") to
 
 ### AI Text Example
 ![AI](Screenshot2.png)
+# ai-vs-human-detector
+AI vs Human text detection using ML
+
